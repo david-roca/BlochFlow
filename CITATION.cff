@@ -1,35 +1,28 @@
-```yaml
 cff-version: 1.2.0
-message: "If you use this software, please cite the associated paper below."
+message: "If you use this software, please cite it as below."
 authors:
 - family-names: "Roca Cazorla"
   given-names: "David"
   orcid: "https://orcid.org/0000-0001-6336-6024"
-title: "A MATLAB solver for Bloch analysis of a channel flow over a Phononic Subsurface"
+title: "A MATLAB solver for Bloch analysis of a channel flow over a lattice of subsurface phonons"
 version: 1.0.0
 date-released: 2025-12-28
 url: "https://github.com/david-roca/BlochFlow"
-license: MIT
-keywords:
-  - fluid-structure interaction
-  - orr-sommerfeld
-  - metamaterials
-  - phononic crystals
-  - phononic subsurface
-  - bloch analysis
-  - stability analysis
-  - matlab
 preferred-citation:
   type: article
   authors:
   - family-names: "Hussein"
     given-names: "Mahmoud I."
+    orcid: "https://orcid.org/0000-0002-6583-1425"
   - family-names: "Roca"
     given-names: "David"
+    orcid: "https://orcid.org/0000-0001-6336-6024"
   - family-names: "Harris"
     given-names: "Adam R."
   - family-names: "Kianfar"
     given-names: "Armin"
-  url: "https://arxiv.org/abs/2503.18835v4"
+    orcid: "https://orcid.org/0000-0002-7043-132X"
+  doi: "10.48550/arXiv.2503.18835"
+  journal: "Preprint"
   title: "Scatterless interferences: Delay of laminar-to-turbulent flow transition by a lattice of subsurface phonons"
   year: 2025
