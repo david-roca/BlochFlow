@@ -30,6 +30,8 @@ savepath;
 
 A complete example is provided in `main_example.m`.
 
+## Citation
+
 If you use this solver in your work, please cite the following paper:
 > **M.I. Hussein et al. (2025).** "Scatterless interferences: Delay of laminar-to-turbulent flow transition by a lattice of subsurface phonons". *Preprint*. DOI: 10.48550/arXiv.2503.18835
 ```bibtex
