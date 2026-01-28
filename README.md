@@ -1,8 +1,8 @@
 # BlochFlow
 
-**A MATLAB solver for Bloch analysis of a channel flow over a lattice of subsurface phonons**
+**A MATLAB solver for Bloch analysis of flow perturbations in a channel over a lattice of phononic subsurface units**
 
-This repository contains a spectral-FEM solver that computes the Bloch modes and stability characteristics (wavenumbers) of a channel flow interacting with periodic phononic subsurfaces (PSubs). It solves the generalized Orr-Sommerfeld equation coupled with a solid mechanics model for the surface admittance.
+This repository contains a spectral-FEM solver that performes Bloch analysis of flow perturbations in a channel with a lattice of phononic subsurface units. The code computes the Bloch dispersion relations (frequency vs. wavenumber) and mode shapes characterizing the stability characteristics of a channel flow interacting with a periodic arrangement of phononic subsurface (PSub) units. It considers a single unit cell and solves the generalized Orr-Sommerfeld equation coupled with an elastodynamics model for the surface admittance representing the PSub motion.
 
 ![MATLAB](https://img.shields.io/badge/MATLAB-R2020b%2B-orange)
 
