@@ -33,14 +33,17 @@ A complete example is provided in `main_example.m`.
 ## Citation
 
 If you use this solver in your work, please cite the following paper:
-> **M.I. Hussein, D. Roca, A.R. Harris, A. Kianfar.** (2026) Scatterless interferences: delay of laminar-to-turbulent flow transition by a lattice of subsurface phonons. *Proc. R. Soc. A.* 20250771; https://doi.org/10.1098/rspa.2025.0771
+> **M.I. Hussein, D. Roca, A.R. Harris, A. Kianfar.** Scatterless interferences: delay of laminar-to-turbulent flow transition by a lattice of subsurface phonons. *Proceedings of the Royal Society A.* 482, 20250071 (2026); https://doi.org/10.1098/rspa.2025.0771
 ```bibtex
-@article{Hussein2025,
+@article{Hussein2026,
   author = {Hussein, Mahmoud I. and Roca, David and Harris, Adam R. and Kianfar, Armin},
-  title = {Scatterless interferences: delay of laminar-to-turbulent flow transition by a lattice of subsurface phonons},
-  journal = {Proc. R. Soc. A.},
+  title = {Scatterless interference: Delay of laminar-to-turbulent flow transition by a lattice of subsurface phonons},
+  journal = {Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences},
+  volume = {482},
+  number = {2337},
   pages = {20250771},
   year = {2026},
+  issn = {1364-5021},
   doi = {10.1098/rspa.2025.0771}
 }
 ```
