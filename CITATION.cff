@@ -19,11 +19,14 @@ preferred-citation:
     orcid: "https://orcid.org/0000-0001-6336-6024"
   - family-names: "Harris"
     given-names: "Adam R."
+    orcid: "https://orcid.org/0000-0002-8233-1537"
   - family-names: "Kianfar"
     given-names: "Armin"
     orcid: "https://orcid.org/0000-0002-7043-132X"
-  doi: "10.1098/rspa.2025.0771"
-  journal: "Proceedings of the Royal Society A"
   title: "Scatterless interferences: delay of laminar-to-turbulent flow transition by a lattice of subsurface phonons"
-  year: 2026
+  journal: "Proceedings of the Royal Society A"
+  volume: 482
+  issue: 2337
   pages: 20250771
+  year: 2026
+  doi: "10.1098/rspa.2025.0771"
